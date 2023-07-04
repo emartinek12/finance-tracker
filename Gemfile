@@ -41,6 +41,8 @@ gem "jbuilder"
 gem 'devise'
 gem "devise-i18n"
 gem "devise-bootstrap5"
+gem 'alphavantage'
+gem 'httparty'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
